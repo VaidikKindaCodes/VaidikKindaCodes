@@ -27,8 +27,8 @@
 
 ## 📝 Latest Projects
 
-- 🔗 [https://vaidik.space/](#) — My personal portfolio showcasing my work and blogs
-- 🔗 [https://truly-ngl.vercel.app/](#) — Fun and useful React projects
+- 🔗 [Portfolio](https://vaidik.space/) — My personal portfolio showcasing my work and blogs
+- 🔗 [Truly NGL](https://truly-ngl.vercel.app/) — Fun and useful React projects
 
 > *Check out my pinned repositories below for more cool stuff!*
 
@@ -36,8 +36,8 @@
 
 ## 📬 Let's Connect!
 
-- 🌐 [https://vaidik.space/](#)
-- 💼 [https://www.linkedin.com/in/vaidik-kathal-a22b17298/](#)
+- 🌐 [Visit my portfolio to connect](https://vaidik.space/)
+- 💼 [Linkdin Account](https://www.linkedin.com/in/vaidik-kathal-a22b17298/)
 - 📫 **Email:** vaidikkathal19@gmail.com
 
 > **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
